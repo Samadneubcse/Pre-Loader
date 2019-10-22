@@ -1,0 +1,13 @@
+body{
+	background-image:url(Loading-V3.gif);
+	background-attachment:fixed;
+	background-position:center;
+	background-color:#000;
+	background-repeat: no-repeat;
+}
+
+.divi
+{
+padding-top:120px;
+color:white;
+}
